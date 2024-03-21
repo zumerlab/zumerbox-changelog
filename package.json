@@ -5,7 +5,7 @@
   "main": "./bin/index.js",
   "bin": "./bin/index.js",
   "scripts": {
-    "start": "./bin/index.js"
+    "start": "node bin/index.js"
   },
   "author": "Juan Martin Muda",
   "license": "MIT",
