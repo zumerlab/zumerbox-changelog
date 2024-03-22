@@ -12,6 +12,6 @@
   "author": "Juan Martin Muda",
   "license": "MIT",
   "dependencies": {
-    "git-cliff": "^2.1.2"
+    "auto-changelog": "^2.4.0"
   }
 }
