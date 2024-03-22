@@ -6,7 +6,7 @@ const path = require('path');
 try {
     const args = process.argv.slice(2).join(' ');
     const configPath = path.resolve(__dirname, '../cliff.toml');
-    execSync(`git cliff -c ${configPath} --prepend ./CHANGELOG.md -l ${args}`, {
+    execSync(`git cliff -c ${configPath} --prepend ./CHANGELOG.md --latest ${args}`, {
         stdio: 'inherit' // Redirect input/output/error to the parent process
     });
 } catch (error) {
