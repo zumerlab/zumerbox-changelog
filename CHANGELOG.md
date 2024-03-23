@@ -2,12 +2,24 @@
 
 All notable changes to this project will be documented in this file. 
 
-#### [v1.0.3](https://github.com/zumerlab/tinybox-changelog/compare/v1.0.2...v1.0.3)
+#### [v1.2.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.2.0...v1.2.0)
 
+#### [v1.2.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.1.0...v1.2.0)
+
+> 23 March 2024
+
+- chore add release [`64a6b54`](https://github.com/zumerlab/tinybox-changelog/commit/64a6b541d551c025d269abf2844ed6cc23257d17)
+
+#### [v1.1.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.0.2...v1.1.0)
+
+> 23 March 2024
+
+- feat: change generator to auto-changelog and adjust custom config [`e3dd465`](https://github.com/zumerlab/tinybox-changelog/commit/e3dd465521789e11d4cb3b45d7301c722707aa53)
 - Fix changelog render [`53ba8f6`](https://github.com/zumerlab/tinybox-changelog/commit/53ba8f6094b43edbd04918ae376cb80047c5895d)
 - Fix changelog render [`adbf4f6`](https://github.com/zumerlab/tinybox-changelog/commit/adbf4f698acb78a6939e42453750a64a085f49b6)
 - Fix library with new process [`b927244`](https://github.com/zumerlab/tinybox-changelog/commit/b9272443cbe95cd0941e8738ae81dd1ca77e1172)
 - Fix header and tag in changelog custom script [`56eb12d`](https://github.com/zumerlab/tinybox-changelog/commit/56eb12d97d2387c4261f7731671d0f3d9a6cb80e)
+- feat: add custom template [`7f3a1d9`](https://github.com/zumerlab/tinybox-changelog/commit/7f3a1d915ac72bd821bc928379dc10cd5ef89e87)
 - Fix cliff args [`0232776`](https://github.com/zumerlab/tinybox-changelog/commit/023277617c5d7b74980d636f519a0d336db98b6e)
 
 #### [v1.0.2](https://github.com/zumerlab/tinybox-changelog/compare/v1.0.1...v1.0.2)
