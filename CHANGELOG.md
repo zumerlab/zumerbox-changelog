@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. 
 
-#### [v1.2.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.2.0...v1.2.0)
+#### [v1.3.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.2.0...v1.3.0)
+
+> 25 March 2024
+
+- Bumped version [`315c4c5`](https://github.com/zumerlab/tinybox-changelog/commit/315c4c598364aa697b5d7d2d3c10dafdb26b2bc4)
+- Add option to hide empty releases [`19d0d7e`](https://github.com/zumerlab/tinybox-changelog/commit/19d0d7ead6844c89a3b4fa2efb83c7e6745672af)
+- chore fix release [`7e23e37`](https://github.com/zumerlab/tinybox-changelog/commit/7e23e370979cdf85855e3aceaffc78d1cbd8d73f)
 
 #### [v1.2.0](https://github.com/zumerlab/tinybox-changelog/compare/v1.1.0...v1.2.0)
 
