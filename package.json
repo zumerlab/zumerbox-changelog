@@ -1,5 +1,5 @@
 {
-  "name": "@tinybox/changelog",
+  "name": "@zumerbox/changelog",
   "version": "1.3.0",
   "description": "",
   "main": "./bin/index.js",
@@ -7,11 +7,19 @@
     "changelog": "bin/index.js"
   },
   "scripts": {
-    "release": "npx @tinybox/release",
+    "release": "npx @zumerbox/release",
     "postversion": "node bin/index.js && git add CHANGELOG.md && git commit -m \"Bumped version\" && git push --follow-tags"
   },
   "author": "Juan Martin Muda",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumerlab/zumerbox-changelog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zumerlab/zumerbox-changelog/issues"
+  },
+  "homepage": "https://github.com/zumerlab/zumerbox-changelog#readme",
   "dependencies": {
     "auto-changelog": "^2.4.0"
   }
