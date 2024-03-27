@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v1.5.0](https://github.com/zumerlab/zumerbox-changelog/compare/v1.4.0...v1.5.0)
+
+> 27 March 2024
+
+- Bumped version [`b706c81`](https://github.com/zumerlab/zumerbox-changelog/commit/b706c81fa5907e407b93b04dd969d4c7ba7021c2)
+- chore: update docs and tools [`298069d`](https://github.com/zumerlab/zumerbox-changelog/commit/298069d3bc5a5081c54ae13b463d6d4e3485da73)
+
 #### [v1.4.0](https://github.com/zumerlab/zumerbox-changelog/compare/v1.3.0...v1.4.0)
 
 > 25 March 2024
