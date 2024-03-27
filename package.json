@@ -7,8 +7,8 @@
     "changelog": "bin/index.js"
   },
   "scripts": {
-    "release": "npx @zumerbox/release",
-    "postversion": "node bin/index.js && git add CHANGELOG.md && git commit -m \"Bumped version\" && git push --follow-tags"
+    "bump": "npx @zumerbox/bump",
+    "postbump": "node bin/index.js && git add CHANGELOG.md && git commit -m \"Bumped version\" && git push --follow-tags"
   },
   "author": "Juan Martin Muda",
   "license": "MIT",
