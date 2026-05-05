@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. 
 
+### [v2.0.0](https://github.com/zumerlab/zumerbox-changelog/compare/v1.5.0...v2.0.0)
+
+> 4 May 2026
+
+- feat!: render-once-and-prepend, filter noise commits [`cf438da`](https://github.com/zumerlab/zumerbox-changelog/commit/cf438da9c786d607626e794079d69fd231b8d64b)
+
 #### [v1.5.0](https://github.com/zumerlab/zumerbox-changelog/compare/v1.4.0...v1.5.0)
 
 > 27 March 2024
